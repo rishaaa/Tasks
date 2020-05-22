@@ -1,6 +1,5 @@
 package task2;
 
-import javax.swing.*;
 import java.util.Scanner;
 
 public class num9 {

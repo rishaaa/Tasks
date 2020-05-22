@@ -18,9 +18,9 @@ public class num7 {
                 else
                     return false;
             }
-
+            return true;
         }
-        return true;
+        return false;
     }
 
 }
